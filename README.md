@@ -16,8 +16,8 @@ After passing the course, you will be able to lead agile projects, work without 
 
 ## Teachers
 
-- Morgan Ericsson (ME), ext 6075, room 423, moreri@chalmers.se (examiner and lecturer)
-- Emil Alégroth (EA) (teaching assistant)
+- Morgan Ericsson (ME), ext 6075, room J423, morgan.ericsson@chalmers.se (examiner and lecturer)
+- Emil Alégroth (EA), emil.alegroth@chalmers.se, (teaching assistant)
 
 ## Course Litteratur
 
@@ -28,24 +28,23 @@ After passing the course, you will be able to lead agile projects, work without 
 
 Below you can see the date, time, room and themes for the lectures and workshops. There is also a detailed schedule in [TimeEdit]. NOTE! We have booked extra time in the project rooms where you should work on the project but when there will not always be assistants on site for support.
 
-In the column marked "AC" you can see the parts of the main course book (by Alistair Cockburn relevant for that lecture and in the "Papers" column the relevant research papers. You are expected to study these chapters and papers that are relevant for a lecture around the time of that lecture (preferably before attending the lecture!). Lectures will not be directly based on the books and papers but will add additional material.
+In the column marked Readings you you will parts of the main course book (Cockburn09) relevant for that lecture as well as relevant research papers. You are expected to read these chapters and papers around the time of that lecture (preferably before attending the lecture!). Lectures will not be directly based on the books and papers but will add additional material.
 
 | Date & Time | Room(s) | Theme |Who | Slides | Readings | 
 |  ------	| :----:	| ------	| :------: |  :------: | :------ |  
-| 19/3 13:15-16:00 | J121[^jfn] | Course Introduction, overview of Agile | ME | [L1]| [Cohen04](http://) (pp. 1-17, 25-26, 27- 28) |  
-| 19/3 16:15-17:00 | J024, J025,  J321, J322, J317 | Agile and Course Q&A |  ME, EA | | |      
-| 21/3 13:15-15:00 | J243 |Developing for Android|  ME |[L2] | |  
-| 21/3 15:15-17:00 | J024, J025,  J321, J322, J317 |Getting started and Tech Q&A **(bring computer!)**|  ME, EA | | |  
-| 22/3 15:15-17:00 | J243 |Software Development Crash Course|  ME, EA | [L3]| |
-| 9/4 13:15-15:00 | J121 | Methodologies & Practices, Scrum and XP |  ME |[L4] | [Schwaber95][], Cockburn09 (ch. 1, 4)  |  
-| 9/4 15:15-17:00 | J024, J025,  J321, J322, J317 | Final preparation (Q&A) before project | ME, EA | | |
-| 11/4 13:15-17:00 | J243 | Project Startup | ME, EA | [L5] | |  
-| 12/4 13:15-15:00 | J243 | Automated testing and pair programming | EA |[L6] | |
-| 19/4 13:15-15:00 | J243 | TBA | ?? |  [L7] |  |  
-| 26/4 13:15-15:00 | J243 | TBA | ?? | [L8] |  |  
-| 3/5 13:15-15:00 | J243 | TBA | ?? | [L9] |  |  
-| 7/5 13:15-15:00 | J243 | TBA | ?? | [L10] |  |  
-| 14/5 *13:15-17:00* | J121 | Criticism to and Missing in Agile | ME/EA | |
+| 19/3 *13:15-16:00* | J121[^jfn] | Course Introduction, overview of Agile | ME | [L1]| [Cohen04] (pp. 1-17, 25-26, 27- 28), [Schwaber95][],  Cockburn09 (ch. 1, 4) |  
+| 19/3 *16:15-17:00* | J024, J025,  J321, J322, J317 | Agile and Course Q&A |  ME, EA | | |      
+| 21/3 *13:15-15:00* | J243 |Developing for Android|  ME |[L2] |[Android][] |  
+| 21/3 *15:15-17:00* | J024, J025,  J321, J322, J317 |Getting started and Tech Q&A **(bring computer!)**|  ME, EA | | |  
+| 9/4 *13:15-16:00* | J121 | Agile Software Development Crash Course|  ME |[L3] |  |  
+| 9/4 *16:15-17:00* | J024, J025,  J321, J322, J317 | Final preparation (Q&A) before project | ME, EA | | |
+| 11/4 *13:15-17:00* | J243 | Project Startup | ME, EA | [L5] | |  
+| 12/4 *13:15-15:00* | J243 | Automated testing and pair programming | EA |[L6] | |
+| 19/4 *13:15-15:00* | J243 | TBA | ?? |  [L7] |  |  
+| 26/4 *13:15-15:00* | J243 | TBA | ?? | [L8] |  |  
+| 3/5 *13:15-15:00* | J243 | Guest Lecture: OmegaPoint | ME | [L9] |  |  
+| 7/5 *13:15-15:00* | J243 | TBA | ?? | [L10] |  |  
+| 14/5 *13:15-17:00* | J121 | Live Debate : Criticism to and Missing from Agile | ME/EA | |
 | 23/5 *13:15-17:00* | J024, J025,  J321, J322, J317 | **Final hand-off to customer** | ME/EA | | |  
 | 23/5 *24:00* | | **Post-mortem report due** | | | | 
 | 27/5 8:30-12:30 | Lindholmen | **Written Exam** | ME | | |  
@@ -53,8 +52,9 @@ In the column marked "AC" you can see the parts of the main course book (by Alis
 [^jfn]:*Note that JXXX refers to Jupiter XXX*
  
 [TimeEdit]: https://web.timeedit.se/chalmers_se/db1/public/r.html?sid=3&h=t&p=0.days%2C20130607.x&objects=201083.182&ox=0&types=0&fe=0
-[Cohen04]: http://
-[Schwaber95]: http://
+[Android]: http://developer.android.com/training/index.html
+[Cohen04]: https://github.com/morganericsson/EDA397/blob/master/Papers/cohen_2004_intro_to_agile_methods.pdf?raw=true
+[Schwaber95]: https://github.com/morganericsson/EDA397/blob/master/Papers/schwaber_1995_scrum_dev_process.pdf?raw=true
 
 ## Examination
 The examination consists of three parts:
