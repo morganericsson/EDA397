@@ -32,7 +32,7 @@ In the column marked Readings you you will parts of the main course book (Cockbu
 
 | Date & Time | Room(s) | Theme |Who | Slides | Readings | 
 |  ------	| :----:	| ------	| :------: |  :------: | :------ |  
-| 19/3 *13:15-16:00* | J121[^jfn] | Course Introduction, overview of Agile | ME | [L1]| [Cohen04] (pp. 1-17, 25-26, 27- 28), [Schwaber95][],  Cockburn09 (ch. 1, 4) |  
+| 19/3 *13:15-16:00* | J121[^jfn] | Course Introduction, overview of Agile | ME | [L1]| [Cohen04][] (pp. 1-17, 25-26, 27- 28), [Schwaber95][],  Cockburn09 (ch. 1, 4) |  
 | 19/3 *16:15-17:00* | J024, J025,  J321, J322, J317 | Agile and Course Q&A |  ME, EA | | |      
 | 21/3 *13:15-15:00* | J243 |Developing for Android|  ME |[L2] |[Android][] |  
 | 21/3 *15:15-17:00* | J024, J025,  J321, J322, J317 |Getting started and Tech Q&A **(bring computer!)**|  ME, EA | | |  
