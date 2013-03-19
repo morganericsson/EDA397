@@ -1,5 +1,7 @@
 # Agile Development Processes - lp4, vt2013
 
+*Please complete the [survey](http://goo.gl/QyIHG) no later than April 2, 2013 to get assigned to a group.*
+
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
 
