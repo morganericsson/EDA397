@@ -35,21 +35,21 @@ In the column marked Readings you you will parts of the main course book (Cockbu
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: |  :------: | :------ |  
 | 19/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | ME | [L1]| [1][V11], [2][V12], [3][V13] | [Cohen04][] (pp. 1-17, 25-26, 27- 28), [Schwaber95][],  Cockburn09 (ch. 1, 4) |  
-| 19/3 *16:15-17:00* | J024, J025,  J321, J322, J317 | Agile and Course Q&A |  ME, EA | |  | |      
+| 19/3 *16:15-17:00* | J024, J025,  J321, J322, J317 | Agile and Course Q&A |  ME, EA | | | |      
 | 21/3 *13:15-15:00* | J243 |Developing for Android|  ME |[L2] | | [Android][] |  
-| 21/3 *15:15-17:00* | J024, J025,  J321, J322, J317 |Getting started and Tech Q&A **(bring computer!)**|  ME, EA | | |  |
+| 21/3 *15:15-17:00* | J024, J025,  J321, J322, J317 |Getting started and Tech Q&A **(bring computer!)**|  ME, EA | | | |
 | 9/4 *13:15-16:00* | J121 | Agile Software Development Crash Course|  ME |[L3] |  |  |
 | 9/4 *16:15-17:00* | J024, J025,  J321, J322, J317 | Final preparation (Q&A) before project | ME, EA | | | |
-| 11/4 *13:15-17:00* | J243 | Project Startup | ME, EA | [L5] | |  |
+| 11/4 *13:15-17:00* | J243 | Project Startup | ME, EA | [L5] | | |
 | 12/4 *13:15-15:00* | J243 | Automated testing and pair programming | EA |[L6] | | |
 | 19/4 *13:15-15:00* | J243 | TBA | ?? |  [L7] |  |  | 
-| 26/4 *13:15-15:00* | J243 | TBA | ?? | [L8] |  |   |
+| 26/4 *13:15-15:00* | J243 | TBA | ?? | [L8] |  |  |
 | 3/5 *13:15-15:00* | J243 | Guest Lecture: OmegaPoint | ME | [L9] |  |  |
 | 7/5 *13:15-15:00* | J243 | TBA | ?? | [L10] |  |  |
-| 14/5 *13:15-17:00* | J121 | Live Debate : Criticism to and Missing from Agile | ME/EA | | |
-| 23/5 *13:15-17:00* | J024, J025,  J321, J322, J317 | **Final hand-off to customer** | ME/EA | | |  | 
-| 23/5 *24:00* | | **Post-mortem report due** | | | |  |
-| 27/5 8:30-12:30 | Lindholmen | **Written Exam** | ME | | |  |
+| 14/5 *13:15-17:00* | J121 | Live Debate : Criticism to and Missing from Agile | ME/EA | | | |
+| 23/5 *13:15-17:00* | J024, J025,  J321, J322, J317 | **Final hand-off to customer** | ME/EA | | | | 
+| 23/5 *24:00* | | **Post-mortem report due** | | | | |
+| 27/5 8:30-12:30 | Lindholmen | **Written Exam** | ME | | | |
 
 *Note that JXXX refers to Jupiter XXX*
  
