@@ -33,7 +33,7 @@ Below you can see the date, time, room and themes for the lectures and workshops
 In the column marked Readings you you will parts of the main course book (Cockburn09) relevant for that lecture as well as relevant research papers. You are expected to read these chapters and papers around the time of that lecture (preferably before attending the lecture!). Lectures will not be directly based on the books and papers but will add additional material.
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
-|  ------	| :----:	| ------	| :------: |  :------: | :------ |  
+|  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
 | 19/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | ME | [L1]| [1][V11], [2][V12], [3][V13] | [Cohen04][] (pp. 1-17, 25-26, 27- 28), [Schwaber95][],  Cockburn09 (ch. 1, 4) |  
 | 19/3 *16:15-17:00* | J024, J025,  J321, J322, J317 | Agile and Course Q&A |  ME, EA | | | |      
 | 21/3 *13:15-15:00* | J243 |Developing for Android|  ME |[L2] | | [Android][] |  
