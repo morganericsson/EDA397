@@ -36,7 +36,7 @@ In the column marked Readings you you will parts of the main course book (Cockbu
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
 | 19/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | ME | [1][L1]| [1][V11], [2][V12], [3][V13] | [Cohen04][] (pp. 1-17, 25-26, 27- 28), [Schwaber95][],  Cockburn09 (ch. 1, 4) |  
 | 19/3 *16:15-17:00* | J024, J025,  J321, J322, J317 | Agile and Course Q&A |  ME, EA | | | |      
-| 21/3 *13:15-15:00* | J243 |Developing for Android|  ME |[L2] | | [Android][] [wiki](wiki/Getting-Started:-Android) |  
+| 21/3 *13:15-15:00* | J243 |Developing for Android|  ME |[L2] | | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
 | 21/3 *15:15-17:00* | J024, J025,  J321, J322, J317 |Getting started and Tech Q&A **(bring computer!)**|  ME, EA | | | |
 | 9/4 *13:15-16:00* | J121 | Agile Software Development Crash Course|  ME |[L3] |  |  |
 | 9/4 *16:15-17:00* | J024, J025,  J321, J322, J317 | Final preparation (Q&A) before project | ME, EA | | | |
@@ -54,7 +54,6 @@ In the column marked Readings you you will parts of the main course book (Cockbu
 *Note that JXXX refers to Jupiter XXX*
  
 [TimeEdit]: https://web.timeedit.se/chalmers_se/db1/public/r.html?sid=3&h=t&p=0.days%2C20130607.x&objects=201083.182&ox=0&types=0&fe=0
-[Android]: http://developer.android.com/training/index.html
 [Cohen04]: https://github.com/morganericsson/EDA397/blob/master/Papers/cohen_2004_intro_to_agile_methods.pdf?raw=true
 [Schwaber95]: https://github.com/morganericsson/EDA397/blob/master/Papers/schwaber_1995_scrum_dev_process.pdf?raw=true
 
