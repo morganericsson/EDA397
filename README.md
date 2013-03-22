@@ -36,7 +36,7 @@ In the column marked Readings you you will parts of the main course book (Cockbu
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
 | 19/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | ME | [1][L1]| [1][V11], [2][V12], [3][V13] | [Cohen04][] (pp. 1-17, 25-26, 27- 28), [Schwaber95][],  Cockburn09 (ch. 1, 4) |  
 | 19/3 *16:15-17:00* | J024, J025,  J321, J322, J317 | Agile and Course Q&A |  ME, EA | | | |      
-| 21/3 *13:15-15:00* | J243 |Developing for Android|  ME |[L2] | | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
+| 21/3 *13:15-15:00* | J243 |Developing for Android|  ME |[L2] | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
 | 21/3 *15:15-17:00* | J024, J025,  J321, J322, J317 |Getting started and Tech Q&A **(bring computer!)**|  ME, EA | | | |
 | 9/4 *13:15-16:00* | J121 | Agile Software Development Crash Course|  ME |[L3] |  |  |
 | 9/4 *16:15-17:00* | J024, J025,  J321, J322, J317 | Final preparation (Q&A) before project | ME, EA | | | |
@@ -61,6 +61,9 @@ In the column marked Readings you you will parts of the main course book (Cockbu
 [V11]: http://svncs.lnu.se/cth/eda397_1_1.mp4
 [V12]: http://svncs.lnu.se/cth/eda397_1_2.mp4
 [V13]: http://svncs.lnu.se/cth/eda397_1_3.mp4
+[V21]: http://svncs.lnu.se/cth/eda397_2_1.mp4
+[V22]: http://svncs.lnu.se/cth/eda397_2_2.mp4
+
 
 ## Examination
 The examination consists of three parts:
