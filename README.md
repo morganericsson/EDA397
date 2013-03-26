@@ -49,7 +49,7 @@ In the column marked Readings you you will parts of the main course book (Cockbu
 | 14/5 *13:15-17:00* | J121 | Live Debate : Criticism to and Missing from Agile | ME/EA | | | |
 | 23/5 *13:15-17:00* | J024, J025,  J321, J322, J317 | **Final hand-off to customer** | ME/EA | | | | 
 | 23/5 *24:00* | | **Post-mortem report due** | | | | |
-| 27/5 8:30-12:30 | Lindholmen | **Written Exam** | ME | | | |
+| 27/5 8:30-12:30 | Lindholmen, Hall L | **Written Exam** | ME | | | |
 
 *Note that JXXX refers to Jupiter XXX*
  
