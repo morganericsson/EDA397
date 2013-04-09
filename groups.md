@@ -19,6 +19,7 @@
 - Ranjith Kumar Duraisamy (<ranji0707@gmail.com>)
 - Martin Goth (<gothm@tf.uni-freiburg.de>)
 - Björn Kjellgren (<bjorn@bjornkjellgren.se>)
+- Andreas Andersson (<lumboo.andersson@gmail.com>)
 
 ## Group 4
 - Johan Grundén (<grunden.johan@gmail.com>)
@@ -50,6 +51,7 @@
 - Murat Temur (<temur.murat@yahoo.com>)
 - Henrik Larsson (<henrikl@student.chalmers.se>)
 - Wenjing Yuan (<yuanwenjing0223@gmail.com>)
+- Luis A. Arce Gonzalez (<luis.arce@dottonetto.com>)
 
 ## Group 8
 - Andreas Berggren (<andbergg@student.chalmers.se>)
@@ -65,3 +67,4 @@
 - Kehinde Ajakaiye (<knowdm@yahoo.com>)
 - Salome Maro (<salomehonest@gmail.com>)
 - Konstantinos Chronis (<konstantinos.chronis@gmail.com>)
+- Eric Lundgren (<hattrickeric@gmail.com>)
