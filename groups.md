@@ -2,8 +2,8 @@
 - Jesper Josefsson (<jesper.josefsson@gmail.com>)
 - Aron Cedercrantz (<cedercra@student.chalmers.se>)
 - Marcus Johansson (<jmarcus@student.chalmers.se>)
-- Ioannis Pliakis (<vrd46@yahoo.gr>)
-- Mohtashim Khan (<gusmohtkh@student.gu.se>)
+- Martin Goth (<gothm@tf.uni-freiburg.de>)
+- Tobias Deekens (<tobias.deekens@gmail.com>)
 
 ## Group 2
 - Fredrik Axelsson (<freaxel@student.chalmers.se>)
@@ -17,7 +17,7 @@
 - Maciej Makarewicz (<maciejk@student.chalmers.se>)
 - Magaly Anjom (<magaly@student.chalmers.se>)
 - Ranjith Kumar Duraisamy (<ranji0707@gmail.com>)
-- Martin Goth (<gothm@tf.uni-freiburg.de>)
+- Ioannis Pliakis (<vrd46@yahoo.gr>)
 - Björn Kjellgren (<bjorn@bjornkjellgren.se>)
 - Andreas Andersson (<lumboo.andersson@gmail.com>)
 
@@ -41,9 +41,10 @@
 - Nashwan Abou Zidan (<gusabouzna@student.gu.se>)
 - Irene Lobo Valbuena (<lobo@student.chalmers.se>)
 - Alexandra Stockman (<gusstocal@student.gu.se>)
-- Tobias Deekens (<tobias.deekens@gmail.com>)
 - Axel Ljungkvist (<axel.ljungkvist@gmail.com>)
 - Niklas Thornesköld (<write2niktu@gmail.com>)
+- Mohtashim Khan (<gusmohtkh@student.gu.se>)
+
 
 ## Group 7
 - Ally Bitebo (<ezedinho@gmail.com>)
