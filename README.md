@@ -1,7 +1,5 @@
 # Agile Development Processes - lp4, vt2013
 
-*Please complete the [survey](http://goo.gl/QyIHG) no later than April 2, 2013 to get assigned to a group.*
-
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
 
@@ -32,19 +30,21 @@ Below you can see the date, time, room and themes for the lectures and workshops
 
 In the column marked Readings you you will parts of the main course book (Cockburn09) relevant for that lecture as well as relevant research papers. You are expected to read these chapters and papers around the time of that lecture (preferably before attending the lecture!). Lectures will not be directly based on the books and papers but will add additional material.
 
+Acceptance tests will *always* be on Fridays at 13:00-15:00. 
+
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
 | 19/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | ME | [1][L1]| [1][V11], [2][V12], [3][V13] | [Cohen04][] (pp. 1-17, 25-26, 27- 28), [Schwaber95][],  Cockburn09 (ch. 1, 4) |  
 | 19/3 *16:15-17:00* | J024, J025,  J321, J322, J317 | Agile and Course Q&A |  ME, EA | | | |      
-| 21/3 *13:15-15:00* | J243 |Developing for Android|  ME |[L2] | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
+| 21/3 *13:15-15:00* | J243 |Developing for Android|  ME |[2][L2] | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
 | 21/3 *15:15-17:00* | J024, J025,  J321, J322, J317 |Getting started and Tech Q&A **(bring computer!)**|  ME, EA | | | |
-| 9/4 *13:15-16:00* | J121 | Agile Software Development Crash Course|  ME |[L3] |  |  |
+| 9/4 *13:15-16:00* | J121 | Agile Software Development Crash Course|  ME | [3][L3] |  |  |
 | 9/4 *16:15-17:00* | J024, J025,  J321, J322, J317 | Final preparation (Q&A) before project | ME, EA | | | |
 | 11/4 *13:15-17:00* | J243 | Project Startup | ME, EA | [L5] | | |
 | 12/4 *13:15-15:00* | J243 | Automated testing and pair programming | EA |[L6] | | |
 | 19/4 *13:15-15:00* | J243 | TBA | ?? |  [L7] |  |  | 
 | 26/4 *13:15-15:00* | J243 | TBA | ?? | [L8] |  |  |
-| 3/5 *13:15-15:00* | J243 | Guest Lecture: OmegaPoint | ME | [L9] |  |  |
+| 2/5 *13:15-15:00* | J243 | Guest Lecture: OmegaPoint | ME | [L9] |  |  |
 | 7/5 *13:15-15:00* | J243 | TBA | ?? | [L10] |  |  |
 | 14/5 *13:15-17:00* | J121 | Live Debate : Criticism to and Missing from Agile | ME/EA | | | |
 | 23/5 *13:15-17:00* | J024, J025,  J321, J322, J317 | **Final hand-off to customer** | ME/EA | | | | 
@@ -57,7 +57,10 @@ In the column marked Readings you you will parts of the main course book (Cockbu
 [Cohen04]: https://github.com/morganericsson/EDA397/blob/master/Papers/cohen_2004_intro_to_agile_methods.pdf?raw=true
 [Schwaber95]: https://github.com/morganericsson/EDA397/blob/master/Papers/schwaber_1995_scrum_dev_process.pdf?raw=true
 
-[L1]: https://speakerdeck.com/morganericsson/eda397-introduction
+[L1]: https://github.com/morganericsson/EDA397/blob/master/Slides/l1.pdf?raw=true
+[L2]: https://github.com/morganericsson/EDA397/blob/master/Slides/l2.pdf?raw=true
+[L3]: https://github.com/morganericsson/EDA397/blob/master/Slides/l3.pdf?raw=true
+
 [V11]: http://svncs.lnu.se/cth/eda397_1_1.mp4
 [V12]: http://svncs.lnu.se/cth/eda397_1_2.mp4
 [V13]: http://svncs.lnu.se/cth/eda397_1_3.mp4
