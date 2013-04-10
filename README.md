@@ -40,13 +40,24 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 21/3 *15:15-17:00* | J024, J025,  J321, J322, J317 |Getting started and Tech Q&A **(bring computer!)**|  ME, EA | | | |
 | 9/4 *13:15-16:00* | J121 | Agile Software Development Crash Course|  ME | [3][L3] |  |  |
 | 9/4 *16:15-17:00* | J024, J025,  J321, J322, J317 | Final preparation (Q&A) before project | ME, EA | | | |
-| 11/4 *13:15-17:00* | J243 | Project Startup | ME, EA | [L5] | | |
-| 12/4 *13:15-15:00* | J243 | Automated testing and pair programming | EA |[L6] | | |
-| 19/4 *13:15-15:00* | J243 | TBA | ?? |  [L7] |  |  | 
-| 26/4 *13:15-15:00* | J243 | TBA | ?? | [L8] |  |  |
-| 2/5 *13:15-15:00* | J243 | Guest Lecture: OmegaPoint | ME | [L9] |  |  |
-| 7/5 *13:15-15:00* | J243 | TBA | ?? | [L10] |  |  |
+| 11/4 *13:15-17:00* | J243 | Project Startup | ME, EA | | | |
+| 12/4 *13:15-15:00* | J243 | Automated testing and pair programming | EA | | | |
+| 16/4 *13:15-17:00* | J121 | Second meeting with customer (proxy) | EA/ME | | | |
+| 18/4 *13:15-17:00* | J243 | Fault Classification Follow-up | ME | | | |
+| 19/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
+| 23/4 *13:15-17:00* | J121 | TBA | ?? | | | |
+| 25/4 *13:15-17:00* | J243 | TBA | ?? | | | |
+| 26/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
+| 30/4 *13:15-17:00* | J121 | TBA | ?? | | | |
+| 2/5 *13:15-15:00* | J243 | Guest Lecture: OmegaPoint | ME | | | |
+| 3/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
+| 7/5 *13:15-15:00* | J121 | TBA | ?? | |  |  |
+| 9/5 *13:15-17:00* | J243 | TBA | ?? | | | |
+| 10/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 | 14/5 *13:15-17:00* | J121 | Live Debate : Criticism to and Missing from Agile | ME/EA | | | |
+| 16/5 *13:15-17:00* | J243 | TBA | ?? | | | |
+| 17/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
+| 21/5 *13:15-15:00* | J121 | TBA | ?? | |  |  |
 | 23/5 *13:15-17:00* | J024, J025,  J321, J322, J317 | **Final hand-off to customer** | ME/EA | | | | 
 | 23/5 *24:00* | | **Post-mortem report due** | | | | |
 | 27/5 8:30-12:30 | Lindholmen, Hall L | **Written Exam** | ME | | | |
