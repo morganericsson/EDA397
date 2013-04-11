@@ -29,7 +29,7 @@
 - Markus Pettersson (<pmarkus@student.chalmers.se>)
 - Mikael Johansson (<mikajoha@student.chalmers.se>)
 
-## Group 5
+## Group 5 (Team Tough Turtles)
 - Tomas Urdell (<urdell@student.chalmers.se>)
 - Cyrill Averbeck (<averbecc@gmail.com>)
 - Sofia Larsson (<lsofia@student.chalmers.se>)
