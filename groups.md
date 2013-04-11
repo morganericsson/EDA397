@@ -1,4 +1,4 @@
-## Group 1
+## Group 1 (The Opposing Force)
 - Jesper Josefsson (<jesper.josefsson@gmail.com>)
 - Aron Cedercrantz (<cedercra@student.chalmers.se>)
 - Marcus Johansson (<jmarcus@student.chalmers.se>)
