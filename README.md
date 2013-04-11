@@ -41,9 +41,9 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 9/4 *13:15-16:00* | J121 | Agile Software Development Crash Course|  ME | [3][L3] | [1][V31], [2][V32] |  |
 | 9/4 *16:15-17:00* | J024, J025,  J321, J322, J317 | Final preparation (Q&A) before project | ME, EA | | | |
 | 11/4 *13:15-13:30* | J243 | Project Startup | ME, EA | | [Presentation][PV]| | [Project Description][PD]
-| 11/4 *13:30-14:30* | J243 | Groups 1,2, and 3 | ME, EA | [Interview][QA1]| | |
-| 11/4 *14:30-15:30* | J243 | Groups 1,2, and 3 | ME, EA | [Interview][QA2]| | |
-| 11/4 *15:30-16:30* | J243 | Groups 1,2, and 3 | ME, EA | [Interview][QA3]| | |
+| 11/4 *13:30-14:30* | J243 | Groups 1,2, and 3 | ME, EA | | [Interview][QA1]| |
+| 11/4 *14:30-15:30* | J243 | Groups 1,2, and 3 | ME, EA | | [Interview][QA2]| |
+| 11/4 *15:30-16:30* | J243 | Groups 1,2, and 3 | ME, EA | | [Interview][QA3]| |
 | 12/4 *13:15-15:00* | J243 | Automated testing and pair programming | EA | | | |
 | 16/4 *13:15-17:00* | J121 | Second meeting with customer (proxy) | EA/ME | | | |
 | 18/4 *13:15-17:00* | J243 | Fault Classification Follow-up | ME | | | |
