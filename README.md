@@ -38,9 +38,12 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 19/3 *16:15-17:00* | J024, J025,  J321, J322, J317 | Agile and Course Q&A |  ME, EA | | | |      
 | 21/3 *13:15-15:00* | J243 |Developing for Android|  ME |[2][L2] | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
 | 21/3 *15:15-17:00* | J024, J025,  J321, J322, J317 |Getting started and Tech Q&A **(bring computer!)**|  ME, EA | | | |
-| 9/4 *13:15-16:00* | J121 | Agile Software Development Crash Course|  ME | [3][L3] |  |  |
+| 9/4 *13:15-16:00* | J121 | Agile Software Development Crash Course|  ME | [3][L3] | [1][V31], [2][V32] |  |
 | 9/4 *16:15-17:00* | J024, J025,  J321, J322, J317 | Final preparation (Q&A) before project | ME, EA | | | |
-| 11/4 *13:15-17:00* | J243 | Project Startup | ME, EA | | | |
+| 11/4 *13:15-13:30* | J243 | Project Startup | ME, EA | | [Presentation][PV]| | [Project Description][PD]
+| 11/4 *13:30-14:30* | J243 | Groups 1,2, and 3 | ME, EA | [Interview][QA1]| | |
+| 11/4 *14:30-15:30* | J243 | Groups 1,2, and 3 | ME, EA | [Interview][QA2]| | |
+| 11/4 *15:30-16:30* | J243 | Groups 1,2, and 3 | ME, EA | [Interview][QA3]| | |
 | 12/4 *13:15-15:00* | J243 | Automated testing and pair programming | EA | | | |
 | 16/4 *13:15-17:00* | J121 | Second meeting with customer (proxy) | EA/ME | | | |
 | 18/4 *13:15-17:00* | J243 | Fault Classification Follow-up | ME | | | |
@@ -77,7 +80,15 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 [V13]: http://svncs.lnu.se/cth/eda397_1_3.mp4
 [V21]: http://svncs.lnu.se/cth/eda397_2_1.mp4
 [V22]: http://svncs.lnu.se/cth/eda397_2_2.mp4
+[V31]: http://svncs.lnu.se/cth/eda397_3_1.mp4
+[V32]: http://svncs.lnu.se/cth/eda397_3_2.mp4
 
+[PV]: http://svncs.lnu.se/cth/Project.mp4
+[PD]: https://github.com/morganericsson/EDA397/wiki/Project-Description
+
+[QA1]: http://svncs.lnu.se/cth/QA1.mp3
+[QA2]: http://svncs.lnu.se/cth/QA2.mp3
+[QA3]: http://svncs.lnu.se/cth/QA3.mp3
 
 ## Examination
 The examination consists of three parts:
