@@ -1,7 +1,5 @@
 # Agile Development Processes - lp4, vt2013
 
-** Video links are dead at the moment. I am working on a solution to get everything back up asap **
-
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
 
@@ -46,7 +44,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 11/4 *13:30-14:30* | J243 | Groups 1,2, and 3 | ME, EA | | [Interview][QA1]| |
 | 11/4 *14:30-15:30* | J243 | Groups 1,2, and 3 | ME, EA | | [Interview][QA2]| |
 | 11/4 *15:30-16:30* | J243 | Groups 1,2, and 3 | ME, EA | | [Interview][QA3]| |
-| 12/4 *13:15-15:00* | J243 | Automated testing and pair programming | EA | | | |
+| 12/4 *13:15-15:00* | J243 | Automated testing and pair programming | EA | | [1][V41] | |
 | 16/4 *13:15-17:00* | J121 | Second meeting with customer (proxy) | EA/ME | | | |
 | 18/4 *13:15-17:00* | J243 | Fault Classification Follow-up | ME | | | |
 | 19/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
@@ -77,20 +75,23 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 [L2]: https://github.com/morganericsson/EDA397/blob/master/Slides/l2.pdf?raw=true
 [L3]: https://github.com/morganericsson/EDA397/blob/master/Slides/l3.pdf?raw=true
 
-[V11]: http://svncs.lnu.se/cth/eda397_1_1.mp4
-[V12]: http://svncs.lnu.se/cth/eda397_1_2.mp4
-[V13]: http://svncs.lnu.se/cth/eda397_1_3.mp4
-[V21]: http://svncs.lnu.se/cth/eda397_2_1.mp4
-[V22]: http://svncs.lnu.se/cth/eda397_2_2.mp4
-[V31]: http://svncs.lnu.se/cth/eda397_3_1.mp4
-[V32]: http://svncs.lnu.se/cth/eda397_3_2.mp4
+https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/database.zip
 
-[PV]: http://svncs.lnu.se/cth/Project.mp4
+[V11]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_1.mp4
+[V12]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_2.mp4
+[V13]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_3.mp4
+[V21]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_1.mp4
+[V22]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_2_2.mp4
+[V31]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_3_1.mp4
+[V32]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_3_2.mp4
+[V41]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_4_1.mov
+
+[PV]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/Project.mp4
 [PD]: https://github.com/morganericsson/EDA397/wiki/Project-Description
 
-[QA1]: http://svncs.lnu.se/cth/QA1.mp3
-[QA2]: http://svncs.lnu.se/cth/QA2.mp3
-[QA3]: http://svncs.lnu.se/cth/QA3.mp3
+[QA1]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/QA1.mp3
+[QA2]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/QA2.mp3
+[QA3]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/QA3.mp3
 
 ## Examination
 The examination consists of three parts:
