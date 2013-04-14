@@ -1,5 +1,7 @@
 # Agile Development Processes - lp4, vt2013
 
+**Please note the schedule for April 16, available below the regular schedule!**
+
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
 
@@ -67,6 +69,21 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 
 *Note that JXXX refers to Jupiter XXX*
  
+## Schedule Second Customer Meeting (April 16)
+
+| Time | Group |
+|  :--------: | :-: |
+| 13:00-13:20 | 1 |
+| 13:20-13:40 | 2 |
+| 13:40-14:00 | 3 |
+| 14:00-14:20 | 4 |
+| 14:20-14:40 | 5 |
+| 14:40-15:00 | 6 |
+| 15:00-15:20 | 7 |
+| 15:20-15:40 | 8 |
+| 15:40-16:00 | 9 |
+
+
 [TimeEdit]: https://web.timeedit.se/chalmers_se/db1/public/r.html?sid=3&h=t&p=0.days%2C20130607.x&objects=201083.182&ox=0&types=0&fe=0
 [Cohen04]: https://github.com/morganericsson/EDA397/blob/master/Papers/cohen_2004_intro_to_agile_methods.pdf?raw=true
 [Schwaber95]: https://github.com/morganericsson/EDA397/blob/master/Papers/schwaber_1995_scrum_dev_process.pdf?raw=true
@@ -74,8 +91,6 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 [L1]: https://github.com/morganericsson/EDA397/blob/master/Slides/l1.pdf?raw=true
 [L2]: https://github.com/morganericsson/EDA397/blob/master/Slides/l2.pdf?raw=true
 [L3]: https://github.com/morganericsson/EDA397/blob/master/Slides/l3.pdf?raw=true
-
-https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/database.zip
 
 [V11]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_1.mp4
 [V12]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_2.mp4
