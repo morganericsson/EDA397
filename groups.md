@@ -45,7 +45,6 @@
 - Niklas Thornesköld (<write2niktu@gmail.com>)
 - Mohtashim Khan (<gusmohtkh@student.gu.se>)
 
-
 ## Group 7
 - Ally Bitebo (<ezedinho@gmail.com>)
 - javier gonzalez (<javiergonzalezotero@gmail.com>)
@@ -60,7 +59,6 @@
 - Ármann Davíð Sigurðsson (<armann@student.chalmers.se>)
 - Jessica Andersson (<jesande@student.chalmers.se>)
 - Erik Lindqvist (<eriklin@student.chalmers.se>)
-- Farnoush (<Farnoush.Heybaran@gmail.com>)
 
 ## Group 9
 - Asif Hussain (<mirzaasif21@gmail.com>)
