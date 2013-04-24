@@ -53,16 +53,16 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 23/4 *13:15-17:00* | J024, J025,  J321, J322, J317 | No lecture, available for Q/A (my office) | ME | | | |
 | 25/4 *13:15-17:00* | J243 | Guest Lecture: Spotify (Mario Jelica) | ME | | | |
 | 26/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
-| 30/4 *13:15-17:00* | J121 | TBA | ?? | | | |
+| 30/4 *13:15-16:00* | J121 | Connecting the dots | ME/EA | | | |
 | 2/5 *13:15-15:00* | J243 | Guest Lecture: OmegaPoint (Nicklas Åkerman) | ME | | | |
 | 3/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 | 7/5 *13:15-15:00* | J121 | Guest Lecture: Ericsson (Thomas Luvö) | ME | | | |
-| 9/5 *13:15-17:00* | J243 | TBA | ?? | | | |
+| 9/5 *13:15-16:00* | J243 | Topic TBA | ME | | | |
 | 10/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 | 14/5 *13:15-17:00* | J121 | Live Debate : Criticism to and Missing from Agile | ME/EA | | | |
 | 16/5 *13:15-17:00* | J243 | TBA | ?? | | | |
 | 17/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
-| 21/5 *13:15-15:00* | J121 | TBA | ?? | |  |  |
+| 21/5 *13:15-15:00* | J121 | Q/A Exam | ME/EA | |  |  |
 | 23/5 *13:15-17:00* | J024, J025,  J321, J322, J317 | **Final hand-off to customer** | ME/EA | | | | 
 | 23/5 *24:00* | | **Post-mortem report due** | | | | |
 | 27/5 8:30-12:30 | Lindholmen, Hall L | **Written Exam** | ME | | | |
