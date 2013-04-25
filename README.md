@@ -119,5 +119,5 @@ The examination consists of three parts:
 
 To pass the course it is extremely important that you read all the course material, participate in lectures and are active in and finish your project. If you do not you will fail! Remember that this is a master level course and requires considerably more than most bachelor level courses.
 
-[PMR]: http://lalala.com
+[PMR]: https://github.com/morganericsson/EDA397/wiki/Post-mortem-Report
 [SDP]: http://lalala.com
