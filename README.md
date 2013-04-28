@@ -1,6 +1,6 @@
 # Agile Development Processes - lp4, vt2013
 
-**Please note that there is not lecture on March 30 (since it's a holiday)**
+**Please note that there is not lecture on March 30 (since it's a holiday). Holidays are not my friend this time of year, so another change to the schedule (and not lecture on May 9 (Ascension Day)**
 
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
@@ -56,10 +56,10 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 2/5 *13:15-15:00* | J243 | Guest Lecture: OmegaPoint (Nicklas Åkerman) | ME | | | |
 | 3/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 | 7/5 *13:15-15:00* | J121 | Guest Lecture: Ericsson (Thomas Luvö) | ME | | | |
-| 9/5 *13:15-16:00* | J243 | Connecting the Dots | ME | | | |
+| 9/5 *13:15-16:00* | J243 |  | ME | | | |
 | 10/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
-| 14/5 *13:15-17:00* | J121 | Live Debate : Criticism to and Missing from Agile | ME/EA | | | |
-| 16/5 *13:15-17:00* | J243 | TBA | ?? | | | |
+| 14/5 *13:15-17:00* | J121 | Connecting the Dots | | | | |
+| 16/5 *13:15-17:00* | J243 | Live Debate : Criticism to and Missing from Agile | ME/EA | | | |
 | 17/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 | 21/5 *13:15-15:00* | J121 | Q/A Exam | ME/EA | |  |  |
 | 23/5 *13:15-17:00* | J024, J025,  J321, J322, J317 | **Final hand-off to customer** | ME/EA | | | | 
