@@ -51,12 +51,11 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 18/4 *13:15-17:00* | J243 | Fault Classification Follow-up | ME | | | |
 | 19/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 | 23/4 *13:15-17:00* | J024, J025,  J321, J322, J317 | No lecture, available for Q/A (my office) | ME | | | |
-| 25/4 *13:15-17:00* | J243 | Guest Lecture: Spotify (Mario Jelica) | ME | | | |
+| 25/4 *13:15-17:00* | J243 | Guest Lecture: Spotify (Mario Jelica) | ME | | [1][G11][2][G12] | |
 | 26/4 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 | 2/5 *13:15-15:00* | J243 | Guest Lecture: OmegaPoint (Nicklas Åkerman) | ME | | | |
 | 3/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 | 7/5 *13:15-15:00* | J121 | Guest Lecture: Ericsson (Thomas Luvö) | ME | | | |
-| 9/5 *13:15-16:00* | J243 |  | ME | | | |
 | 10/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 | 14/5 *13:15-17:00* | J121 | Connecting the Dots | | | | |
 | 16/5 *13:15-17:00* | J243 | Live Debate : Criticism to and Missing from Agile | ME/EA | | | |
@@ -68,21 +67,6 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 
 *Note that JXXX refers to Jupiter XXX*
  
-## Schedule Second Customer Meeting (April 16)
-
-| Time | Group |
-|  :--------: | :-: |
-| 13:00-13:20 | 1 |
-| 13:20-13:40 | 2 |
-| 13:40-14:00 | 3 |
-| 14:00-14:20 | 4 |
-| 14:20-14:40 | 5 |
-| 14:40-15:00 | 6 |
-| 15:00-15:20 | 7 |
-| 15:20-15:40 | 8 |
-| 15:40-16:00 | 9 |
-
-
 [TimeEdit]: https://web.timeedit.se/chalmers_se/db1/public/r.html?sid=3&h=t&p=0.days%2C20130607.x&objects=201083.182&ox=0&types=0&fe=0
 [Cohen04]: https://github.com/morganericsson/EDA397/blob/master/Papers/cohen_2004_intro_to_agile_methods.pdf?raw=true
 [Schwaber95]: https://github.com/morganericsson/EDA397/blob/master/Papers/schwaber_1995_scrum_dev_process.pdf?raw=true
@@ -107,10 +91,14 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 [QA2]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/QA2.mp3
 [QA3]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/QA3.mp3
 
+[G11]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/spotify1.mp4
+[G12]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/spotify2.mp4
+
+
 ## Examination
 The examination consists of three parts:
 
-1. A **[Software Development project][SDP]** where you work in groups to develop an Android or iOS app using agile practices.
+1. A **Software Development project** where you work in groups to develop an Android or iOS app using agile practices.
 
 2. A  **[Post-mortem Report][PMR]** that outlines your experience with agile practices during the software development project. (individual)
 
@@ -118,5 +106,7 @@ The examination consists of three parts:
 
 To pass the course it is extremely important that you read all the course material, participate in lectures and are active in and finish your project. If you do not you will fail! Remember that this is a master level course and requires considerably more than most bachelor level courses.
 
+Your final grade will be set according to the [Grading Policy][GP]
+
+[GP]: https://github.com/morganericsson/EDA397/wiki/Grading-Policy]
 [PMR]: https://github.com/morganericsson/EDA397/wiki/Post-mortem-Report
-[SDP]: http://lalala.com
