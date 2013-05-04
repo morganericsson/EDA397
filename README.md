@@ -94,6 +94,14 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 [G11]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/spotify1.mp4
 [G12]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/spotify2.mp4
 
+## Additional Resources
+
+- Kanban ([video](http://vimeo.com/16918747))
+- Pair programming ([video](http://vimeo.com/7814261))
+- Why is it difficult to implement Scrum? ([video](http://vimeo.com/7849448))
+- Product Owners in a nutshell ([video](http://www.youtube.com/watch?v=502ILHjX9EE))
+- Unit testing ([Part 1](https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut1.mp4), [Part 2](https://s3-eu-west-1.amazonaws.com/course-mats/DAT255/ut2.mp4))
+- Automated acceptance testing ([video](http://www.youtube.com/watch?v=m-HudsS0c7Q))
 
 ## Examination
 The examination consists of three parts:
