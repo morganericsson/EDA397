@@ -30,13 +30,13 @@ After passing the course, you will be able to lead agile projects, work without 
 
 Below you can see the date, time, room and themes for the lectures and workshops. There is also a detailed schedule in [TimeEdit]. NOTE! We have booked extra time in the project rooms where you should work on the project but when there will not always be assistants on site for support.
 
-In the column marked Readings you you will parts of the main course book (Cockburn09) relevant for that lecture as well as relevant research papers. You are expected to read these chapters and papers around the time of that lecture (preferably before attending the lecture!). Lectures will not be directly based on the books and papers but will add additional material.
+See [wiki](https://github.com/morganericsson/EDA397/wiki/Reading-Instructions) for reading instructions.
 
 Acceptance tests will *always* be on Fridays at 13:00-15:00. 
 
 | Date & Time | Room(s) | Theme |Who | Slides | Videos | Readings | 
 |  ------	| :----:	| ------	| :------: | :------: | :------: | :------ |  
-| 19/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | ME | [1][L1]| [1][V11], [2][V12], [3][V13] | [Cohen04][] (pp. 1-17, 25-26, 27- 28), [Schwaber95][],  Cockburn09 (ch. 1, 4) |  
+| 19/3 *13:15-16:00* | J121 | Course Introduction, overview of Agile | ME | [1][L1]| [1][V11], [2][V12], [3][V13] | |  
 | 19/3 *16:15-17:00* | J024, J025,  J321, J322, J317 | Agile and Course Q&A |  ME, EA | | | |      
 | 21/3 *13:15-15:00* | J243 |Developing for Android|  ME |[2][L2] | [1][V21], [2][V22] | [Android](https://github.com/morganericsson/EDA397/wiki/Getting-Started:-Android) |  
 | 21/3 *15:15-17:00* | J024, J025,  J321, J322, J317 |Getting started and Tech Q&A **(bring computer!)**|  ME, EA | | | |
