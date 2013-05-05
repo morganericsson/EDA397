@@ -21,6 +21,14 @@ After passing the course, you will be able to lead agile projects, work without 
 - Morgan Ericsson (ME), ext 6075, room J423, morgan.ericsson@chalmers.se (examiner and lecturer)
 - Emil Alégroth (EA), emil.alegroth@chalmers.se, (teaching assistant)
 
+## Student representatives
+
+- Luis Arce González, arce@student.chalmers.se
+- Magaly Anjom, magaly@student.chalmers.se
+- Andreas Andersson, andander@student.chalmers.se
+- Fredrik Axelsson, freaxel@student.chalmers.se
+- Maciej Krzysztof Makarewicz, maciejk@student.chalmers.se
+
 ## Course Litteratur
 
 - Cockburn, A., (2009) [Agile Software Development, 2ed](http://www.amazon.com/Agile-Software-Development-Cooperative-Game/dp/0321482751/ref=sr_1_3?ie=UTF8&qid=1300358686&sr=8-3) (ISBN: 0321482751)
