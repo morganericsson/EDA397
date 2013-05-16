@@ -65,13 +65,14 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 3/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 | 7/5 *13:15-15:00* | *J243* | Guest Lecture: Ericsson (Thomas Luvö) | ME | | | |
 | 13/5 *9:00-11:00* | J243 | Acceptance Tests | EA | | | |
-| 14/5 *13:15-17:00* | J121 | Connecting the Dots | | | | |
-| 16/5 *13:15-17:00* | J243 | Live Debate : Criticism to and Missing from Agile | ME/EA | | | |
+| 14/5 *13:15-17:00* | J121 | Connecting the Dots | ME | [4][L4] | | |
+| 16/5 *13:15-17:00* | J243 | Discussion | ME/EA | | [5][L5] | |
 | 17/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 | 21/5 *13:15-15:00* | J121 | Q/A Exam | ME/EA | |  |  |
 | 23/5 *13:15-17:00* | J024, J025,  J321, J322, J317 | **Final hand-off to customer** | ME/EA | | | | 
 | 23/5 *24:00* | | **Post-mortem report due** | | | | |
 | 27/5 8:30-12:30 | Lindholmen, Hall L | **Written Exam** | ME | | | |
+| 29/8 | Lindholmen, Hall L | August Exam | ME | | | |
 
 *Note that JXXX refers to Jupiter XXX*
  
@@ -82,6 +83,8 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 [L1]: https://github.com/morganericsson/EDA397/blob/master/Slides/l1.pdf?raw=true
 [L2]: https://github.com/morganericsson/EDA397/blob/master/Slides/l2.pdf?raw=true
 [L3]: https://github.com/morganericsson/EDA397/blob/master/Slides/l3.pdf?raw=true
+[L4]: https://github.com/morganericsson/EDA397/blob/master/Slides/l4.pdf?raw=true
+[L5]: https://github.com/morganericsson/EDA397/blob/master/Slides/l5.pdf?raw=true
 
 [V11]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_1.mp4
 [V12]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/eda397_1_2.mp4
@@ -101,6 +104,8 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 
 [G11]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/spotify1.mp4
 [G12]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/spotify2.mp4
+[G21]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/op1.mp4
+[G22]: https://s3-eu-west-1.amazonaws.com/course-mats/EDA397/op2.mp4
 
 ## Additional Resources
 
