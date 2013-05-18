@@ -66,7 +66,7 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 7/5 *13:15-15:00* | *J243* | Guest Lecture: Ericsson (Thomas Luvö) | ME | | | |
 | 13/5 *9:00-11:00* | J243 | Acceptance Tests | EA | | | |
 | 14/5 *13:15-17:00* | J121 | Connecting the Dots | ME | [4][L4] | | |
-| 16/5 *13:15-17:00* | J243 | Discussion | ME/EA | | [5][L5] | |
+| 16/5 *13:15-17:00* | J243 | Discussion | ME/EA | [5][L5] |  | |
 | 17/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 | 21/5 *13:15-15:00* | J121 | Q/A Exam | ME/EA | |  |  |
 | 23/5 *13:15-17:00* | J024, J025,  J321, J322, J317 | **Final hand-off to customer** | ME/EA | | | | 
