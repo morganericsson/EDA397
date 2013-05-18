@@ -1,6 +1,6 @@
 # Agile Development Processes - lp4, vt2013
 
-**Please note that there is not lecture on March 30 (since it's a holiday). Holidays are not my friend this time of year, so another change to the schedule (and not lecture on May 9 (Ascension Day)**
+**The deadline for the post-mortem report has been changed to May 31**
 
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
@@ -70,8 +70,8 @@ Acceptance tests will *always* be on Fridays at 13:00-15:00.
 | 17/5 *13:15-15:00* | J243 | Acceptance Tests | EA | | | |
 | 21/5 *13:15-15:00* | J121 | Q/A Exam | ME/EA | |  |  |
 | 23/5 *13:15-17:00* | J024, J025,  J321, J322, J317 | **Final hand-off to customer** | ME/EA | | | | 
-| 23/5 *24:00* | | **Post-mortem report due** | | | | |
 | 27/5 8:30-12:30 | Lindholmen, Hall L | **Written Exam** | ME | | | |
+| 31/5 *24:00* | | **Post-mortem report due** | | | | |
 | 29/8 | Lindholmen, Hall L | August Exam | ME | | | |
 
 *Note that JXXX refers to Jupiter XXX*
