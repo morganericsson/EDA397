@@ -1,6 +1,6 @@
 # Agile Development Processes - lp4, vt2013
 
-**The deadline for the post-mortem report has been changed to May 31**
+**NOTE: First exam review is Aug 20 13:00 - 14:00 in Jupiter 400 (where you had your customer meetings. This review is mainly intended for those of you that plan to take the re-examination on Aug 29. There will be another review in September. This information should have been mailed to you last week**
 
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
