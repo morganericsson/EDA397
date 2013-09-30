@@ -1,7 +1,6 @@
 # Agile Development Processes - lp4, vt2013
 
-**The August exam has been graded and results should be in Ladok (or on their way). I will announce another review early next week (Sept 23ish).**
-
+Exam review 2 will be held on Oct 8, 12:00-13:00 in Jupiter 400 (where you had the customer proxy meetings).
 
 ## Course Description
 Software remains malleable, often illogical, and incomplete forever. *Sequential approaches* to software development, such as the *waterfall model*, assumes that it is possible to take every single variable that could affect a project into account beforehand. Considerable effort is spent to identify risks, plan mitigation, and what consequences these may have. From a traditional product perspective, this can be compared to creating an assembly line to produce software.
